@@ -1,0 +1,11 @@
+
+amigo 1
+obtive: QAT1 QAT4 QAT13 QAT16 ECU13
+dei: QAT6 QAT7 QAT11 ECU2 ECU19
+amigo 2
+obtive: QAT10
+dei: QAT2
+amigo 3
+obtive: ECU14
+dei: QAT12
+cartas em falta: 
