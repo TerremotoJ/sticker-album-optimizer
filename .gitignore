@@ -1,16 +1,11 @@
-# Compiled class files
 *.class
 
-# Log file
 *.log
 
-# BlueJ files
 *.ctxt
 
-# Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
 *.jar
 *.war
 *.nar
@@ -19,7 +14,6 @@
 *.tar.gz
 *.rar
 
-# IDE specific metadata
 .classpath
 .project
 .settings/
@@ -28,5 +22,4 @@
 *.iml
 bin/
 
-# Exclude large PDF specs if desired, or keep them. 
-# POO TP1*.pdf
+*.pdf
